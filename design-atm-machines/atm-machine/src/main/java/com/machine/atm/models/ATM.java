@@ -4,11 +4,15 @@ import com.machine.atm.enums.ATMStateEnum;
 import com.machine.atm.enums.TransactionType;
 import com.machine.atm.state.IdleState;
 import com.machine.atm.state.IATMState;
+import com.machine.atm.observer.ATMObserver;
+import java.util.ArrayList;
+import java.util.List;
 
 public class ATM {
 
     // Singleton
     private static volatile ATM instance;
+    private final List<ATMObserver> observers = new ArrayList<>();
 
     // Fields
     private final String atmId;
@@ -99,6 +103,16 @@ public class ATM {
     public void setCurrentAccount(
             Account account) {
         this.currentAccount = account;
+    }
+
+    public void addObserver(ATMObserver observer) {
+        observers.add(observer);
+    }
+
+    public void notifyObservers(Transaction transaction) {
+        for (ATMObserver observer : observers) {
+            observer.onTransaction(transaction);
+        }
     }
 
     // Getters

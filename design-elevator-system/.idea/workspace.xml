@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4e1558a-5a22-4f52-9218-416d8b21f2e8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atm-machine/src/main/java/com/machine/atm/models/ATM.java" beforeDir="false" afterPath="$PROJECT_DIR$/atm-machine/src/main/java/com/machine/atm/models/ATM.java" afterDir="false" />
+    <list default="true" id="b3d394df-de24-46a2-abc0-c0ccb3afcdec" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Design an Elevator System/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Design an Elevator System/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design-atm-machines/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../design-atm-machines/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design-atm-machines/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../design-atm-machines/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design-atm-machines/atm-machine/src/main/java/com/machine/atm/models/ATM.java" beforeDir="false" afterPath="$PROJECT_DIR$/../design-atm-machines/atm-machine/src/main/java/com/machine/atm/models/ATM.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../design-hotel-booking/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../design-hotel-booking/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,10 +16,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 1
-}</component>
-  <component name="ProjectId" id="3GBpFN9abLnhPXuTTpDlKtWRsN4" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="3GGEmcdkGdPwM7KnqVJh9peNCMz" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -27,17 +29,17 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true"
+    "last_opened_file_path": "C:/Users/vivek/OneDrive/Desktop/LLD/design-elevator-system"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f4e1558a-5a22-4f52-9218-416d8b21f2e8" name="Changes" comment="" />
-      <created>1783454712611</created>
+      <changelist id="b3d394df-de24-46a2-abc0-c0ccb3afcdec" name="Changes" comment="" />
+      <created>1783589665472</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1783454712611</updated>
+      <updated>1783589665472</updated>
     </task>
     <servers />
   </component>
